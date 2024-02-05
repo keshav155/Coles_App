@@ -1,0 +1,9 @@
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\bin\Debug\OneStopShop.exe
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\bin\Debug\OneStopShop.pdb
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.csproj.AssemblyReference.cache
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.Form1.resources
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.Properties.Resources.resources
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.csproj.GenerateResource.cache
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.csproj.CoreCompileInputs.cache
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.exe
+C:\Users\Keshav\Desktop\SCP - OneStopShop\Coles_App\OneStopShop\OneStopShop\obj\Debug\OneStopShop.pdb
